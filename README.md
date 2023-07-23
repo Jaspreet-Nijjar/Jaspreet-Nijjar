@@ -5,9 +5,6 @@ I'm a **Junior Front-End Developer** based in the **United Kingdom**. I have a s
 
 Currently, I'm enjoying learning a lot more about React and exploring TypeScript further. I enjoy the creative process of bringing a design to life!
 
-- 👀 I’m interested in learning more about React
-- 🌱 I’m currently learning TypeScript
-
 <!---
 Jaspreet-Nijjar/Jaspreet-Nijjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
