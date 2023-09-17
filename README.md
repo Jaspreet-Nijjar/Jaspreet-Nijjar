@@ -1,7 +1,7 @@
 # Hi, I'm Jaspreet! 👋👩‍💻
 
 ## About Me
-I'm a **Junior Front-End Developer** based in the **United Kingdom**. I have a scientific background in biology, primarily working in the oncology field and have gained experience in academic scientific publishing. I have always been interested in exploring creative pursuits and gained a strong interest in Front End Development. I'm interested in developing my skills and exploring further technologies.
+I'm a **Front-End Developer** based in the **United Kingdom**. I have a scientific background in biology, primarily working in the oncology field and have gained experience in academic scientific publishing. I have always been interested in exploring creative pursuits and gained a strong interest in Front End Development. I'm interested in developing my skills and exploring further technologies.
 
 Currently, I'm enjoying learning a lot more about React and exploring TypeScript further. I enjoy the creative process of bringing a design to life!
 
